@@ -1,4 +1,4 @@
-package ru.gb.calculator;
+package ru.gb.startcalculator;
 
 import org.junit.Test;
 

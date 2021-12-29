@@ -1,4 +1,4 @@
-package ru.gb.calculator;
+package ru.gb.startcalculator;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.gb.calculator", appContext.getPackageName());
+        assertEquals("ru.gb.startcalculator", appContext.getPackageName());
     }
 }
